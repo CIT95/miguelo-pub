@@ -1,0 +1,2 @@
+# Gym Schedule 
+When I go to the gym I work on different type of muscles depending on the day. Before I work out however I run a mile on the treadmill but if I went to work that day I will not run. I will also sometimes go either Saturday or Sunday and will work on tricepts and another muscle. 
