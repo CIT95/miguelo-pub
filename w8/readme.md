@@ -1,2 +1,2 @@
 # Gym Schedule updated
-For my week 8 project I decided to update my week 4 project by including a nested dictionary with lists. Even though this project was challenging, I learned a lot on how to access and manipulate dictionaries.
+For my week 8 project I decided to update my week 4 project by including a nested dictionary with lists. Even though this project was challenging, I learned a lot on how to access and manipulate dictionaries. I might have done too many if statements but that is just how my everyday routine works. The most challenging part for this project was updating it from the last code_together. It is much easier to create code since it is fresh in my mind but I had to remind myself about some lines and how to update the lines.

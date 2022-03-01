@@ -58,21 +58,20 @@ work_out_sched = {
     },
 }
 
-motivatingWord = ["great", "wonderfull", "stupendous", "fantastic",
-                  "fabulous", "splendid", "marvelous", "superb",
-                  "favorable", "satisfying", "delightful", "rewarding",
-                  "fulfilling", "gainful", "fruitful", "productive"]
-userName = input("What is your name?: ")
+motivating_word = ["great", "wonderfull", "stupendous", "fantastic",
+                   "fabulous", "splendid", "marvelous", "superb",
+                   "favorable", "satisfying", "delightful", "rewarding",
+                   "fulfilling", "gainful", "fruitful", "productive"]
+user_name = input("What is your name?: ")
 
 # PROMPT THE USER
-print(f"{userName}'s Weekly Gym Planner")
-# day_of_week = choose_day()
+print(f"{user_name}'s Weekly Gym Planner")
 
 for day in work_out_sched:
     # Randomly chooses a motivating word and output
-    randWord = random.randint(0, len(motivatingWord)-1)
+    rand_word = random.randint(0, len(motivating_word)-1)
     print(f"\nToday is {day}")
-    print(f"You will have a {motivatingWord[randWord]} day!")
+    print(f"You will have a {motivating_word[rand_word]} day!")
     work_bool = work_today()
 
     # BASED ON THE INPUT, OUTPUT THE DAY'S SCHEDULE
