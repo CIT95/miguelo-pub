@@ -23,8 +23,7 @@ def move_left():
 
 
 def collision_det(user_turtle, enemy_turtle):
-    return abs(user_turtle.xcor() - enemy_turtle.xcor()) < 15 and\
-        abs(user_turtle.ycor() - enemy_turtle.ycor()) < 15
+    return abs(user_turtle.pos() - enemy_turtle.pos()) < 15
 
 
 def game_state(won):
