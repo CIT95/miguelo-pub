@@ -1,0 +1,2 @@
+# Week 15 documentation
+For my project I created a .pdf file for my documentation. This project helped me in organize my thoughts and made me create another class instead of rellying on one. This documentation is still a work in progress and does not include my use for turtle, though I do know how I will use turtle for my project. 
